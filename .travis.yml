@@ -1,1 +1,5 @@
 language: java
+notifications:
+  email:
+    recipients:
+    - gopikmahankali@gmail.com
